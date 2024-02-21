@@ -1,11 +1,4 @@
-## Oi, Eu sou a Paiva.
-<div align="center">
-  <a href="https://github.com/PaivaEduarda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaivaEduarda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-  
-  ##
+## Hello, I'm Eduarda Paiva. Welcome to my profile!
  
 <div>
 <a href="https://instagram.com/coepaivasz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
